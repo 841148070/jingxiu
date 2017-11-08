@@ -1,0 +1,10 @@
+*{margin: 0; padding: 0;}
+.clearfix:after{display: block; height: 0; line-height: 0; font-size: 0; content: "."; visibility: hidden; clear: both;}
+h1,h2,h3,h4,h5,h6,p,ul,li,header,aside,section,menu,footer,nav{display: block;}
+.ellipsis{overflow: hidden; text-overflow: ellipsis; white-space: nowrap;}
+a{text-decoration: none;}
+ul{list-style: none;}
+img{width: 100%;}
+.none{
+	display: none;
+}
